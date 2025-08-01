@@ -69,7 +69,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 excel_file = os.path.join(current_dir, "Single-point mutant peptide sequence.xlsx")
 df = pd.read_excel(excel_file, header=0)
 # 跳过首行（列名）和首列（索引列）
-data_matrix = df.iloc[1:, 1:].to_numpy()
+data_matrix = df.iloc[0:, 1:].to_numpy()
 
 # 打印矩阵查看,检查序列是否正确
 # print(data_matrix)
@@ -77,18 +77,19 @@ data_matrix = df.iloc[1:, 1:].to_numpy()
 # print("矩阵第2行第3列的值是：", value)
 
 # 写入 PML 文件
-pml_file = os.path.join(current_dir, "Somps.pml")
+pml_file = os.path.join(current_dir, "Spmps.pml")
 with open(pml_file, 'w') as f:
     for i in range(data_matrix.shape[0]):  # 行
         for j in range(data_matrix.shape[1]):  # 列
             sequence = data_matrix[i, j]
             if pd.notna(sequence):  # 跳过空值
-                name = f"{i + 2}-{j + 2}"  # +2 是因为原始矩阵跳过首行首列
+                name = f"{i + 1}-{j + 1}"  # +2 是因为原始矩阵跳过首行首列
                 f.write(f"fab {sequence}, name={name}, ss={ss_type}\n")
 
     # 写入最后一行保存命令
-    f.write("save C:/Spmps.sdf\n")
+    f.write("save C:/Users/zh86z/desktop/Spmps.mol2 \n")
+    f.write("save C:/Users/zh86z/desktop/Spmps.sdf \n")
 
-print("PML 文件已生成：Somps.pml")
+print("PML 文件已生成：Spmps.pml")
 
 
