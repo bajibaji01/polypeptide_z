@@ -1,0 +1,399 @@
+REMARK WARNING: 32 MAX_TORS EXCEEDED!!!
+REMARK  68 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  CA_2 
+REMARK    2  A    between atoms: CA_2  and  C_3 
+REMARK    3  A    between atoms: CA_2  and  CB_5 
+REMARK       I    between atoms: C_3  and  N_11 
+REMARK    4  A    between atoms: CB_5  and  CG_6 
+REMARK    5  A    between atoms: CG_6  and  CD_7 
+REMARK    6  A    between atoms: N_11  and  CA_12 
+REMARK    7  A    between atoms: CA_12  and  C_13 
+REMARK    8  A    between atoms: CA_12  and  CB_15 
+REMARK       I    between atoms: C_13  and  N_22 
+REMARK    9  A    between atoms: CB_15  and  CG_16 
+REMARK       I    between atoms: CG_16  and  ND2_17 
+REMARK   10  A    between atoms: CA_23  and  C_24 
+REMARK       I    between atoms: C_24  and  N_29 
+REMARK   11  A    between atoms: N_29  and  CA_30 
+REMARK   12  A    between atoms: CA_30  and  C_31 
+REMARK   13  A    between atoms: CA_30  and  CB_33 
+REMARK       I    between atoms: C_31  and  N_39 
+REMARK   14  A    between atoms: CB_33  and  CG_34 
+REMARK   15  A    between atoms: CG_34  and  CD_35 
+REMARK   16  A    between atoms: N_39  and  CA_40 
+REMARK   17  A    between atoms: CA_40  and  C_41 
+REMARK   18  A    between atoms: CA_40  and  CB_43 
+REMARK       I    between atoms: C_41  and  N_48 
+REMARK   19  A    between atoms: CB_43  and  OG1_45 
+REMARK   20  A    between atoms: N_48  and  CA_49 
+REMARK   21  A    between atoms: CA_49  and  C_50 
+REMARK   22  A    between atoms: CA_49  and  CB_52 
+REMARK       I    between atoms: C_50  and  N_57 
+REMARK   23  A    between atoms: CB_52  and  CG1_53 
+REMARK   24  A    between atoms: N_57  and  CA_58 
+REMARK   25  A    between atoms: CA_58  and  C_59 
+REMARK   26  A    between atoms: CA_58  and  CB_61 
+REMARK       I    between atoms: C_59  and  N_66 
+REMARK   27  A    between atoms: CB_61  and  CG_62 
+REMARK   28  A    between atoms: N_66  and  CA_67 
+REMARK   29  A    between atoms: CA_67  and  C_68 
+REMARK   30  A    between atoms: CA_67  and  CB_70 
+REMARK       I    between atoms: C_68  and  N_75 
+REMARK   31  A    between atoms: CB_70  and  CG_71 
+REMARK   32  A    between atoms: N_75  and  CA_76 
+REMARK   33  A    between atoms: CA_76  and  C_77 
+REMARK   34  A    between atoms: CA_76  and  CB_79 
+REMARK       I    between atoms: C_77  and  N_85 
+REMARK   35  A    between atoms: CB_79  and  CG_80 
+REMARK   36  A    between atoms: CG_80  and  CD_81 
+REMARK   37  A    between atoms: N_85  and  CA_86 
+REMARK   38  A    between atoms: CA_86  and  C_87 
+REMARK   39  A    between atoms: CA_86  and  CB_89 
+REMARK       I    between atoms: C_87  and  N_97 
+REMARK   40  A    between atoms: CB_89  and  CG_90 
+REMARK   41  A    between atoms: N_97  and  CA_98 
+REMARK   42  A    between atoms: CA_98  and  C_99 
+REMARK   43  A    between atoms: CA_98  and  CB_101 
+REMARK       I    between atoms: C_99  and  N_105 
+REMARK   44  A    between atoms: N_105  and  CA_106 
+REMARK   45  A    between atoms: CA_106  and  C_107 
+REMARK   46  A    between atoms: CA_106  and  CB_109 
+REMARK       I    between atoms: C_107  and  N_117 
+REMARK   47  A    between atoms: CB_109  and  CG_110 
+REMARK   48  A    between atoms: CG_110  and  CD_111 
+REMARK       I    between atoms: CD_111  and  NE2_112 
+REMARK   49  A    between atoms: N_117  and  CA_118 
+REMARK   50  A    between atoms: CA_118  and  C_119 
+REMARK   51  A    between atoms: CA_118  and  CB_121 
+REMARK       I    between atoms: C_119  and  N_134 
+REMARK   52  A    between atoms: CB_121  and  CG_122 
+REMARK   53  A    between atoms: CG_122  and  CD_123 
+REMARK   54  A    between atoms: CD_123  and  NE_124 
+REMARK       I    between atoms: NE_124  and  CZ_125 
+REMARK       I    between atoms: CZ_125  and  NH1_126 
+REMARK       I    between atoms: CZ_125  and  NH2_127 
+REMARK   55  A    between atoms: N_134  and  CA_135 
+REMARK   56  A    between atoms: CA_135  and  C_136 
+REMARK   57  A    between atoms: CA_135  and  CB_138 
+REMARK       I    between atoms: C_136  and  N_142 
+REMARK   58  A    between atoms: N_142  and  CA_143 
+REMARK   59  A    between atoms: CA_143  and  C_144 
+REMARK   60  A    between atoms: CA_143  and  CB_146 
+REMARK       I    between atoms: C_144  and  N_151 
+REMARK   61  A    between atoms: CB_146  and  CG_147 
+REMARK   62  A    between atoms: CG_147  and  SD_148 
+REMARK   63  A    between atoms: N_151  and  CA_152 
+REMARK   64  A    between atoms: CA_152  and  C_153 
+REMARK   65  A    between atoms: CA_152  and  CB_155 
+REMARK   66  A    between atoms: CB_155  and  CG_156 
+REMARK   67  A    between atoms: CG_156  and  CD_157 
+REMARK   68  A    between atoms: CD_157  and  NE_158 
+REMARK       I    between atoms: NE_158  and  CZ_159 
+REMARK       I    between atoms: CZ_159  and  NH1_160 
+ROOT
+ATOM      1  C   GLU d   9     813.345 218.418-771.924  0.00  0.00     0.241 C 
+ATOM      2  O   GLU d   9     814.008 219.174-772.649  0.00  0.00    -0.271 OA
+ATOM      3  N   HIS d  10     813.443 217.143-772.094  0.00  0.00    -0.346 N 
+ATOM      4  H   HIS d  10     812.913 216.507-771.516  0.00  0.00     0.163 HD
+ENDROOT
+BRANCH   1   5
+ATOM      5  CA  GLU d   9     812.425 218.945-770.849  0.00  0.00     0.177 C 
+BRANCH   5   6
+ATOM      6  N   GLU d   9     811.123 218.286-770.905  0.00  0.00    -0.346 N 
+ATOM      7  C   ASP d   8     810.444 218.335-772.001  0.00  0.00     0.241 C 
+ATOM      8  O   ASP d   8     810.917 218.941-772.975  0.00  0.00    -0.271 OA
+ATOM      9  H   GLU d   9     810.760 217.798-770.099  0.00  0.00     0.163 HD
+BRANCH   7  10
+ATOM     10  CA  ASP d   8     809.098 217.654-772.059  0.00  0.00     0.186 C 
+BRANCH  10  11
+ATOM     11  N   ASP d   8     809.170 216.304-771.506  0.00  0.00    -0.346 N 
+ATOM     12  C   LEU d   7     810.009 215.465-772.013  0.00  0.00     0.241 C 
+ATOM     13  O   LEU d   7     810.729 215.829-772.954  0.00  0.00    -0.271 OA
+ATOM     14  H   ASP d   8     808.572 216.032-770.739  0.00  0.00     0.163 HD
+BRANCH  12  15
+ATOM     15  CA  LEU d   7     810.082 214.069-771.441  0.00  0.00     0.177 C 
+BRANCH  15  16
+ATOM     16  N   LEU d   7     810.137 214.105-769.982  0.00  0.00    -0.346 N 
+ATOM     17  C   ILE d   6     811.081 214.769-769.408  0.00  0.00     0.241 C 
+ATOM     18  O   ILE d   6     811.916 215.358-770.111  0.00  0.00    -0.271 OA
+ATOM     19  H   LEU d   7     809.445 213.616-769.431  0.00  0.00     0.163 HD
+BRANCH  17  20
+ATOM     20  CA  ILE d   6     811.138 214.806-767.900  0.00  0.00     0.180 C 
+BRANCH  20  21
+ATOM     21  N   ILE d   6     809.824 215.099-767.334  0.00  0.00    -0.346 N 
+ATOM     22  C   THR d   5     809.218 216.181-767.688  0.00  0.00     0.243 C 
+ATOM     23  O   THR d   5     809.758 216.926-768.482  0.00  0.00    -0.271 OA
+ATOM     24  H   ILE d   6     809.396 214.464-766.676  0.00  0.00     0.163 HD
+BRANCH  22  25
+ATOM     25  CA  THR d   5     807.860 216.485-767.104  0.00  0.00     0.205 C 
+BRANCH  25  26
+ATOM     26  N   THR d   5     806.991 215.314-767.162  0.00  0.00    -0.344 N 
+ATOM     27  C   GLU d   4     806.764 214.761-768.306  0.00  0.00     0.241 C 
+ATOM     28  O   GLU d   4     807.290 215.241-769.320  0.00  0.00    -0.271 OA
+ATOM     29  H   THR d   5     806.574 214.942-766.321  0.00  0.00     0.163 HD
+BRANCH  27  30
+ATOM     30  CA  GLU d   4     805.865 213.550-768.367  0.00  0.00     0.177 C 
+BRANCH  30  31
+ATOM     31  N   GLU d   4     806.225 212.579-767.337  0.00  0.00    -0.346 N 
+ATOM     32  C   PRO d   3     807.429 212.119-767.305  0.00  0.00     0.241 C 
+ATOM     33  O   PRO d   3     808.253 212.502-768.136  0.00  0.00    -0.271 OA
+ATOM     34  H   GLU d   4     805.540 212.272-766.660  0.00  0.00     0.163 HD
+BRANCH  32  35
+ATOM     35  CA  PRO d   3     807.828 211.096-766.228  0.00  0.00     0.179 C 
+ATOM     36  N   PRO d   3     807.376 211.505-764.906  0.00  0.00    -0.337 N 
+ATOM     37  C   ASN d   2     807.897 212.500-764.272  0.00  0.00     0.243 C 
+ATOM     38  CD  PRO d   3     806.298 210.712-764.357  0.00  0.00     0.127 C 
+ATOM     39  O   ASN d   2     808.812 213.131-764.801  0.00  0.00    -0.271 OA
+ATOM     40  CG  PRO d   3     805.840 209.893-765.567  0.00  0.00     0.022 C 
+ATOM     41  CB  PRO d   3     807.124 209.741-766.397  0.00  0.00     0.037 C 
+BRANCH  37  42
+ATOM     42  CA  ASN d   2     807.366 212.855-762.903  0.00  0.00     0.185 C 
+BRANCH  42  43
+ATOM     43  N   ASN d   2     805.906 212.894-762.903  0.00  0.00    -0.346 N 
+ATOM     44  C   GLU d   1     805.302 213.680-763.729  0.00  0.00     0.242 C 
+ATOM     45  O   GLU d   1     805.978 214.379-764.497  0.00  0.00    -0.271 OA
+ATOM     46  H   ASN d   2     805.378 212.314-762.267  0.00  0.00     0.163 HD
+BRANCH  44  47
+ATOM     47  CA  GLU d   1     803.793 213.720-763.729  0.00  0.00     0.191 C 
+BRANCH  47  48
+ATOM     48  N   GLU d   1     803.234 212.371-763.729  0.00  0.00    -0.326 NA
+ATOM     49  H   GLU d   1     803.861 211.492-763.729  0.00  0.00     0.180 HD
+ENDBRANCH  47  48
+BRANCH  47  50
+ATOM     50  CB  GLU d   1     803.270 214.505-762.492  0.00  0.00     0.047 C 
+BRANCH  50  51
+ATOM     51  CG  GLU d   1     803.745 215.990-762.381  0.00  0.00     0.116 C 
+BRANCH  51  52
+ATOM     52  CD  GLU d   1     803.321 216.794-761.166  0.00  0.00     0.172 C 
+ATOM     53  OE1 GLU d   1     802.593 216.292-760.288  0.00  0.00    -0.648 OA
+ATOM     54  OE2 GLU d   1     803.751 217.964-761.094  0.00  0.00    -0.648 OA
+ENDBRANCH  51  52
+ENDBRANCH  50  51
+ENDBRANCH  47  50
+ENDBRANCH  44  47
+ENDBRANCH  42  43
+BRANCH  42  55
+ATOM     55  CB  ASN d   2     807.858 211.832-761.839  0.00  0.00     0.137 C 
+BRANCH  55  56
+ATOM     56  CG  ASN d   2     807.395 212.056-760.396  0.00  0.00     0.217 C 
+ATOM     57  ND2 ASN d   2     807.989 212.971-759.678  0.00  0.00    -0.370 N 
+ATOM     58 21HD ASN d   2     807.508 213.144-758.791  0.00  0.00     0.159 HD
+ATOM     59 22HD ASN d   2     808.691 213.543-760.147  0.00  0.00     0.159 HD
+ATOM     60  OD1 ASN d   2     806.474 211.422-759.902  0.00  0.00    -0.274 OA
+ENDBRANCH  55  56
+ENDBRANCH  42  55
+ENDBRANCH  37  42
+ENDBRANCH  32  35
+ENDBRANCH  30  31
+BRANCH  30  61
+ATOM     61  CB  GLU d   4     804.376 213.968-768.197  0.00  0.00     0.045 C 
+BRANCH  61  62
+ATOM     62  CG  GLU d   4     803.828 214.972-769.262  0.00  0.00     0.116 C 
+BRANCH  62  63
+ATOM     63  CD  GLU d   4     802.401 215.468-769.119  0.00  0.00     0.172 C 
+ATOM     64  OE1 GLU d   4     801.675 215.070-768.188  0.00  0.00    -0.648 OA
+ATOM     65  OE2 GLU d   4     802.012 216.297-769.967  0.00  0.00    -0.648 OA
+ENDBRANCH  62  63
+ENDBRANCH  61  62
+ENDBRANCH  30  61
+ENDBRANCH  27  30
+ENDBRANCH  25  26
+BRANCH  25  66
+ATOM     66  CB  THR d   5     807.993 216.997-765.630  0.00  0.00     0.146 C 
+ATOM     67  CG2 THR d   5     808.895 218.231-765.413  0.00  0.00     0.042 C 
+BRANCH  66  68
+ATOM     68  OG1 THR d   5     806.725 217.389-765.120  0.00  0.00    -0.393 OA
+ATOM     69  1HG THR d   5     806.868 217.622-764.198  0.00  0.00     0.210 HD
+ENDBRANCH  66  68
+ENDBRANCH  25  66
+ENDBRANCH  22  25
+ENDBRANCH  20  21
+BRANCH  20  70
+ATOM     70  CB  ILE d   6     811.739 213.470-767.300  0.00  0.00     0.013 C 
+ATOM     71  CG2 ILE d   6     813.181 213.170-767.815  0.00  0.00     0.012 C 
+BRANCH  70  72
+ATOM     72  CG1 ILE d   6     811.757 213.407-765.739  0.00  0.00     0.002 C 
+ATOM     73  CD1 ILE d   6     812.029 212.018-765.125  0.00  0.00     0.005 C 
+ENDBRANCH  70  72
+ENDBRANCH  20  70
+ENDBRANCH  17  20
+ENDBRANCH  15  16
+BRANCH  15  74
+ATOM     74  CB  LEU d   7     808.880 213.208-771.922  0.00  0.00     0.038 C 
+BRANCH  74  75
+ATOM     75  CG  LEU d   7     808.809 211.728-771.456  0.00  0.00    -0.020 C 
+ATOM     76  CD1 LEU d   7     807.620 211.021-772.123  0.00  0.00     0.009 C 
+ATOM     77  CD2 LEU d   7     810.104 210.950-771.747  0.00  0.00     0.009 C 
+ENDBRANCH  74  75
+ENDBRANCH  15  74
+ENDBRANCH  12  15
+ENDBRANCH  10  11
+BRANCH  10  78
+ATOM     78  CB  ASP d   8     808.019 218.491-771.318  0.00  0.00     0.147 C 
+BRANCH  78  79
+ATOM     79  CG  ASP d   8     807.799 219.912-771.858  0.00  0.00     0.175 C 
+ATOM     80  OD1 ASP d   8     807.863 220.111-773.088  0.00  0.00    -0.648 OA
+ATOM     81  OD2 ASP d   8     807.605 220.837-771.042  0.00  0.00    -0.648 OA
+ENDBRANCH  78  79
+ENDBRANCH  10  78
+ENDBRANCH   7  10
+ENDBRANCH   5   6
+BRANCH   5  82
+ATOM     82  CB  GLU d   9     813.058 218.737-769.443  0.00  0.00     0.045 C 
+BRANCH  82  83
+ATOM     83  CG  GLU d   9     814.440 219.431-769.213  0.00  0.00     0.116 C 
+BRANCH  83  84
+ATOM     84  CD  GLU d   9     815.141 219.218-767.884  0.00  0.00     0.172 C 
+ATOM     85  OE1 GLU d   9     814.620 218.526-766.988  0.00  0.00    -0.648 OA
+ATOM     86  OE2 GLU d   9     816.260 219.757-767.751  0.00  0.00    -0.648 OA
+ENDBRANCH  83  84
+ENDBRANCH  82  83
+ENDBRANCH   5  82
+ENDBRANCH   1   5
+BRANCH   3  87
+ATOM     87  CA  HIS d  10     814.332 216.634-773.134  0.00  0.00     0.182 C 
+BRANCH  87  88
+ATOM     88  C   HIS d  10     813.966 217.199-774.485  0.00  0.00     0.241 C 
+ATOM     89  O   HIS d  10     814.818 217.665-775.256  0.00  0.00    -0.271 OA
+ATOM     90  N   VAL d  11     812.728 217.196-774.849  0.00  0.00    -0.346 N 
+ATOM     91  H   VAL d  11     812.015 216.822-774.239  0.00  0.00     0.163 HD
+BRANCH  90  92
+ATOM     92  CA  VAL d  11     812.373 217.743-776.156  0.00  0.00     0.180 C 
+BRANCH  92  93
+ATOM     93  C   VAL d  11     812.836 219.174-776.287  0.00  0.00     0.241 C 
+ATOM     94  O   VAL d  11     813.437 219.580-777.290  0.00  0.00    -0.271 OA
+ATOM     95  N   GLN d  12     812.597 219.999-775.325  0.00  0.00    -0.346 N 
+ATOM     96  H   GLN d  12     812.108 219.692-774.496  0.00  0.00     0.163 HD
+BRANCH  95  97
+ATOM     97  CA  GLN d  12     813.044 221.382-775.451  0.00  0.00     0.177 C 
+BRANCH  97  98
+ATOM     98  C   GLN d  12     814.534 221.452-775.688  0.00  0.00     0.241 C 
+ATOM     99  O   GLN d  12     815.020 222.161-776.566  0.00  0.00    -0.271 OA
+ATOM    100  N   ARG d  13     815.319 220.746-774.947  0.00  0.00    -0.346 N 
+ATOM    101  H   ARG d  13     814.943 220.155-774.219  0.00  0.00     0.163 HD
+BRANCH 100 102
+ATOM    102  CA  ARG d  13     816.759 220.814-775.177  0.00  0.00     0.176 C 
+BRANCH 102 103
+ATOM    103  C   ARG d  13     817.096 220.443-776.602  0.00  0.00     0.241 C 
+ATOM    104  O   ARG d  13     817.865 221.116-777.285  0.00  0.00    -0.271 OA
+ATOM    105  N   VAL d  14     816.562 219.388-777.117  0.00  0.00    -0.346 N 
+ATOM    106  H   VAL d  14     815.928 218.819-776.576  0.00  0.00     0.163 HD
+BRANCH 105 107
+ATOM    107  CA  VAL d  14     816.888 219.030-778.495  0.00  0.00     0.180 C 
+BRANCH 107 108
+ATOM    108  C   VAL d  14     816.557 220.160-779.440  0.00  0.00     0.241 C 
+ATOM    109  O   VAL d  14     817.351 220.543-780.309  0.00  0.00    -0.271 OA
+ATOM    110  N   MET d  15     815.411 220.745-779.338  0.00  0.00    -0.346 N 
+ATOM    111  H   MET d  15     814.747 220.451-778.637  0.00  0.00     0.163 HD
+BRANCH 110 112
+ATOM    112  CA  MET d  15     815.090 221.838-780.252  0.00  0.00     0.177 C 
+BRANCH 112 113
+ATOM    113  C   MET d  15     816.119 222.939-780.163  0.00  0.00     0.241 C 
+ATOM    114  O   MET d  15     816.621 223.451-781.175  0.00  0.00    -0.271 OA
+ATOM    115  N   ARG d  16     816.486 223.359-779.000  0.00  0.00    -0.347 N 
+ATOM    116  H   ARG d  16     816.092 222.958-778.161  0.00  0.00     0.163 HD
+BRANCH 115 117
+ATOM    117  CA  ARG d  16     817.482 224.425-778.915  0.00  0.00     0.162 C 
+BRANCH 117 118
+ATOM    118  C   ARG d  16     818.753 224.034-779.631  0.00  0.00     0.219 C 
+ATOM    119  O   ARG d  16     818.869 222.958-780.213  0.00  0.00    -0.287 OA
+ENDBRANCH 117 118
+BRANCH 117 120
+ATOM    120  CB  ARG d  16     817.749 224.742-777.416  0.00  0.00     0.035 C 
+BRANCH 120 121
+ATOM    121  CG  ARG d  16     818.573 226.032-777.142  0.00  0.00     0.023 C 
+BRANCH 121 122
+ATOM    122  CD  ARG d  16     818.821 226.251-775.641  0.00  0.00     0.138 C 
+BRANCH 122 123
+ATOM    123  NE  ARG d  16     819.595 227.511-775.439  0.00  0.00    -0.227 N 
+ATOM    124  CZ  ARG d  16     819.985 227.993-774.262  0.00  0.00     0.665 C 
+ATOM    125  NH1 ARG d  16     819.738 227.407-773.124  0.00  0.00    -0.235 N 
+ATOM    126  NH2 ARG d  16     820.648 229.106-774.243  0.00  0.00    -0.235 N 
+ATOM    127 11HH ARG d  16     819.213 226.534-773.210  0.00  0.00     0.174 HD
+ATOM    128 12HH ARG d  16     820.071 227.843-772.263  0.00  0.00     0.174 HD
+ATOM    129 21HH ARG d  16     820.833 229.550-775.144  0.00  0.00     0.174 HD
+ATOM    130 22HH ARG d  16     820.937 229.461-773.330  0.00  0.00     0.174 HD
+ATOM    131  HE  ARG d  16     819.874 228.092-776.235  0.00  0.00     0.177 HD
+ENDBRANCH 122 123
+ENDBRANCH 121 122
+ENDBRANCH 120 121
+ENDBRANCH 117 120
+ENDBRANCH 115 117
+ENDBRANCH 112 113
+BRANCH 112 132
+ATOM    132  CB  MET d  15     813.668 222.381-779.943  0.00  0.00     0.045 C 
+BRANCH 132 133
+ATOM    133  CG  MET d  15     812.507 221.382-780.136  0.00  0.00     0.076 C 
+BRANCH 133 134
+ATOM    134  SD  MET d  15     810.932 222.246-780.022  0.00  0.00    -0.173 SA
+ATOM    135  CE  MET d  15     809.853 220.815-779.887  0.00  0.00     0.089 C 
+ENDBRANCH 133 134
+ENDBRANCH 132 133
+ENDBRANCH 112 132
+ENDBRANCH 110 112
+ENDBRANCH 107 108
+BRANCH 107 136
+ATOM    136  CB  VAL d  14     816.118 217.712-778.903  0.00  0.00     0.009 C 
+ATOM    137  CG1 VAL d  14     816.208 217.295-780.396  0.00  0.00     0.012 C 
+ATOM    138  CG2 VAL d  14     816.551 216.460-778.103  0.00  0.00     0.012 C 
+ENDBRANCH 107 136
+ENDBRANCH 105 107
+ENDBRANCH 102 103
+BRANCH 102 139
+ATOM    139  CB  ARG d  13     817.473 219.875-774.163  0.00  0.00     0.036 C 
+BRANCH 139 140
+ATOM    140  CG  ARG d  13     819.018 220.030-774.081  0.00  0.00     0.023 C 
+BRANCH 140 141
+ATOM    141  CD  ARG d  13     819.645 219.043-773.083  0.00  0.00     0.138 C 
+BRANCH 141 142
+ATOM    142  NE  ARG d  13     821.122 219.252-773.032  0.00  0.00    -0.227 N 
+ATOM    143  CZ  ARG d  13     821.971 218.561-772.277  0.00  0.00     0.665 C 
+ATOM    144  NH1 ARG d  13     821.606 217.596-771.480  0.00  0.00    -0.235 N 
+ATOM    145  NH2 ARG d  13     823.230 218.862-772.333  0.00  0.00    -0.235 N 
+ATOM    146 11HH ARG d  13     820.601 217.408-771.484  0.00  0.00     0.174 HD
+ATOM    147 12HH ARG d  13     822.320 217.113-770.931  0.00  0.00     0.174 HD
+ATOM    148 21HH ARG d  13     823.497 219.620-772.963  0.00  0.00     0.174 HD
+ATOM    149 22HH ARG d  13     823.865 218.321-771.744  0.00  0.00     0.174 HD
+ATOM    150  HE  ARG d  13     821.573 219.975-773.602  0.00  0.00     0.177 HD
+ENDBRANCH 141 142
+ENDBRANCH 140 141
+ENDBRANCH 139 140
+ENDBRANCH 102 139
+ENDBRANCH 100 102
+ENDBRANCH  97  98
+BRANCH  97 151
+ATOM    151  CB  GLN d  12     812.651 222.149-774.168  0.00  0.00     0.044 C 
+BRANCH 151 152
+ATOM    152  CG  GLN d  12     813.009 223.671-774.136  0.00  0.00     0.105 C 
+BRANCH 152 153
+ATOM    153  CD  GLN d  12     812.705 224.483-772.871  0.00  0.00     0.215 C 
+ATOM    154  NE2 GLN d  12     812.138 223.906-771.843  0.00  0.00    -0.370 N 
+ATOM    155 21HE GLN d  12     812.029 224.499-771.019  0.00  0.00     0.159 HD
+ATOM    156 22HE GLN d  12     811.976 222.902-771.947  0.00  0.00     0.159 HD
+ATOM    157  OE1 GLN d  12     813.005 225.665-772.793  0.00  0.00    -0.274 OA
+ENDBRANCH 152 153
+ENDBRANCH 151 152
+ENDBRANCH  97 151
+ENDBRANCH  95  97
+ENDBRANCH  92  93
+BRANCH  92 158
+ATOM    158  CB  VAL d  11     810.812 217.634-776.376  0.00  0.00     0.009 C 
+ATOM    159  CG1 VAL d  11     810.243 218.338-777.639  0.00  0.00     0.012 C 
+ATOM    160  CG2 VAL d  11     810.289 216.179-776.451  0.00  0.00     0.012 C 
+ENDBRANCH  92 158
+ENDBRANCH  90  92
+ENDBRANCH  87  88
+BRANCH  87 161
+ATOM    161  CB  HIS d  10     814.170 215.105-773.130  0.00  0.00     0.095 C 
+BRANCH 161 162
+ATOM    162  CG  HIS d  10     815.457 214.396-772.822  0.00  0.00     0.053 A 
+ATOM    163  CD2 HIS d  10     815.837 214.060-771.529  0.00  0.00     0.116 A 
+ATOM    164  NE2 HIS d  10     817.053 213.430-771.595  0.00  0.00    -0.359 N 
+ATOM    165  CE1 HIS d  10     817.316 213.434-772.930  0.00  0.00     0.207 A 
+ATOM    166  2HE HIS d  10     817.619 213.053-770.822  0.00  0.00     0.166 HD
+ATOM    167  ND1 HIS d  10     816.410 213.992-773.754  0.00  0.00    -0.247 NA
+ENDBRANCH 161 162
+ENDBRANCH  87 161
+ENDBRANCH   3  87
+TORSDOF 68
